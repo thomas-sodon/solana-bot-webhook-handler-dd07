@@ -1,0 +1,7 @@
+name = "solana-bot-webhook-handler-dd07"
+main = "src/index.ts"
+compatibility_date = "2024-04-20"
+workers_dev = true
+
+[vars]
+ENABLED=true
